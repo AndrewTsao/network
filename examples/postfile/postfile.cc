@@ -13,7 +13,6 @@
 #include "lib/ftl/files/file.h"
 #include "lib/ftl/files/file_descriptor.h"
 #include "lib/ftl/files/path.h"
-#include "lib/ftl/files/unique_fd.h"
 #include "lib/mtl/socket/files.h"
 #include "lib/mtl/tasks/message_loop.h"
 
